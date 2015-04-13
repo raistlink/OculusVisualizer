@@ -1,0 +1,12 @@
+F:\OculusVisualizerProject\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+F:\OculusVisualizerProject\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\OculusVisualizerProject\Temp\bin\Debug\UnityEditor.dll
+F:\OculusVisualizerProject\Temp\bin\Debug\UnityEngine.dll
+F:\OculusVisualizerProject\Temp\bin\Debug\UnityEngine.UI.dll
+F:\OculusVisualizerProject\Temp\bin\Debug\Mono.Cecil.dll
+F:\OculusVisualizerProject\Temp\bin\Debug\nunit.framework.dll
+F:\OculusVisualizerProject\Temp\bin\Debug\Unity.DataContract.dll
+F:\OculusVisualizerProject\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\OculusVisualizerProject\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+F:\OculusVisualizerProject\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\OculusVisualizerProject\obj\Debug\Assembly-CSharp-firstpass.pdb
