@@ -5,6 +5,8 @@ Project("{49877929-A243-D14F-CB23-CDBE4363A276}") = "OculusVisualizerProject", "
 EndProject
 Project("{49877929-A243-D14F-CB23-CDBE4363A276}") = "OculusVisualizerProject", "Assembly-CSharp.csproj", "{DEFBBC39-00E4-DE5F-8B1C-C05BFDF99143}"
 EndProject
+Project("{49877929-A243-D14F-CB23-CDBE4363A276}") = "OculusVisualizerProject", "Assembly-CSharp-Editor.csproj", "{EA12DEAF-D218-8AD8-3F0A-6E462761D85F}"
+EndProject
 Project("{49877929-A243-D14F-CB23-CDBE4363A276}") = "OculusVisualizerProject", "Assembly-UnityScript-firstpass.unityproj", "{21003FDE-6610-7A7E-9145-2D4087B506A0}"
 EndProject
 Project("{49877929-A243-D14F-CB23-CDBE4363A276}") = "OculusVisualizerProject", "Assembly-UnityScript.unityproj", "{79139A53-375B-B9A1-3A80-804915196062}"
@@ -23,6 +25,10 @@ Global
 		{DEFBBC39-00E4-DE5F-8B1C-C05BFDF99143}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEFBBC39-00E4-DE5F-8B1C-C05BFDF99143}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEFBBC39-00E4-DE5F-8B1C-C05BFDF99143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA12DEAF-D218-8AD8-3F0A-6E462761D85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA12DEAF-D218-8AD8-3F0A-6E462761D85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA12DEAF-D218-8AD8-3F0A-6E462761D85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA12DEAF-D218-8AD8-3F0A-6E462761D85F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{21003FDE-6610-7A7E-9145-2D4087B506A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{21003FDE-6610-7A7E-9145-2D4087B506A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21003FDE-6610-7A7E-9145-2D4087B506A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -35,7 +41,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																								GlobalSection(MonoDevelopProperties) = preSolution
+																																																													GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

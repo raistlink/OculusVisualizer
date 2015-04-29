@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Analyzer : MonoBehaviour {
+public class Analyzer : MonoBehaviour, AudioProcessor.AudioCallbacks {
 
     public float[] cubeInitPosX;
     public float[] cubeInitPosY;
@@ -217,7 +217,19 @@ public class Analyzer : MonoBehaviour {
             //}
             //Debug.Log(totalVolume);
         }
+
+
     
+	}
+
+	public void onOnbeatDetected()
+	{
+		Debug.Log("Beat!!!");
+	}
+	
+	public void onSpectrum(float[] spectrum)
+	{
+
 	}
 
 }

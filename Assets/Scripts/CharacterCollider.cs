@@ -9,7 +9,7 @@ public class CharacterCollider : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        character = GameObject.Find("First Person Controller");
+        character = GameObject.Find("OVRPlayerController");
         sphere = GameObject.Find("Sphere");
 	}
 	
